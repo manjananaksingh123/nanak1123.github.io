@@ -1,0 +1,5 @@
+<section>
+  <h2>Event Photo</h2>
+  <img src="group-photo.jpg" alt="Group Event Photo" width="600">
+  <p>This is a group photo from our recent event.</p>
+</section>
